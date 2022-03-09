@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# autocompleate for coc-nvim
+.ccls
+
 # Object files
 *.o
 *.ko
